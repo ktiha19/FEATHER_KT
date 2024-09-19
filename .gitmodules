@@ -1,0 +1,3 @@
+[submodule "Vitis-Tutorials"]
+	path = Vitis-Tutorials
+	url = https://github.com/Xilinx/Vitis-Tutorials.git
